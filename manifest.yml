@@ -1,0 +1,5 @@
+---
+applications:
+ - name: TF-Demo
+   host: tfdemo
+   memory: 1024M
