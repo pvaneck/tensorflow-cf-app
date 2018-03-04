@@ -1,5 +1,5 @@
 ---
 applications:
  - name: TF-Demo
-   host: tfdemo
+   random-route: true
    memory: 1024M
